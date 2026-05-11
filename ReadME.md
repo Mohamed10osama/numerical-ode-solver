@@ -136,5 +136,4 @@ This will generate all four plots and print the error summary to the console.
 
 ## 👤 Author
 
-**ABDELAAL MOHAMED** — MEXT Scholar 2024, System Informatics, Kobe University 🇯🇵  
-Passionate about Data Science, Machine Learning, and Computational Methods.
+**MOHAMED OSAMA**
