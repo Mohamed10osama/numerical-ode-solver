@@ -1,6 +1,6 @@
 # Numerical ODE Solver 🧮
 
-Solving the differential equation **dy/dx = -y** using three numerical methods: **Euler** and **RK4 (Runge-Kutta 4th Order)** — with full visualization and error analysis in Python.
+Solving the differential equation **dy/dx = -y** using two numerical methods: **Euler** and **RK4 (Runge-Kutta 4th Order)** — with full visualization and error analysis in Python.
 
 ---
 
